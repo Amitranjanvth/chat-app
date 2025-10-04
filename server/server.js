@@ -55,4 +55,4 @@ server.listen(process.env.PORT  || 8000, () => {
 
 
 
-export default {app,server};
+export default server;
